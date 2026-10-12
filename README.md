@@ -7,14 +7,13 @@
 
 ---
 
-## Descrição dos entregáveis do repositório
+## Entregáveis presentes no repositório
 - **`main.py`**: Código-fonte responsável por gerar as peças musicais de ponta a ponta a partir da gramática.
 - **`requirements.txt`**: Lista de dependências exatas para reprodução do ambiente.
 - **`Relatorio_TP1_EduardoCorreia.pdf`**: Relatório científico em formato ISMIR.
-- **`musica1_lofi_hop/`**: Pasta com música (MP3 e MID) gerada com baixa densidade de chimbais ($D_h = 0.2$).
-- **`musica2_boom_bap/**: Pasta com música (MP3 e MID) gerada com densidade de chimbais intermediária ($D_h = 0.6$).
-- **`musica3_trap_style/`**: Pasta com música (MP3 e MID) gerada com alta densidade de chimbais ($D_h = 1.0$).
-- **Arquivos `.png`**: Representações visuais (*Piano Roll*) das execuções.
+- **`musica1_lofi_hop/`**: Pasta com música (MP3, MID e PNG[Piano roll]) gerada com baixa densidade de chimbais ($D_h = 0.2$).
+- **`musica2_boom_bap/`**: Pasta com música (MP3, MID e PNG[Piano roll]) gerada com densidade de chimbais intermediária ($D_h = 0.6$).
+- **`musica3_trap_style/`**: Pasta com música (MP3, MID e PNG[Piano roll]) gerada com alta densidade de chimbais ($D_h = 1.0$).
 
 ---
 
